@@ -1,0 +1,18 @@
+"*":
+  core:
+    ignoredNames: [
+      ".git"
+      ".svn"
+      ".DS_Store"
+    ]
+  welcome:
+    showOnStartup: false
+  "spell-check":
+    grammars: [
+      "text.plain"
+      "source.gfm"
+      "text.git-commit"
+    ]
+  editor:
+    softWrap: true
+    invisibles: {}
