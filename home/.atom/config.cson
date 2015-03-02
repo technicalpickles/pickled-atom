@@ -1,18 +1,28 @@
 "*":
+  editor:
+    softWrap: true
+    invisibles: {}
   core:
     ignoredNames: [
       ".git"
       ".svn"
       ".DS_Store"
     ]
-  welcome:
-    showOnStartup: false
+    themes: [
+      "one-dark-ui"
+      "one-dark-syntax"
+    ]
+  autocomplete:
+    includeCompletionsFromAllBuffers: true
   "spell-check":
     grammars: [
       "text.plain"
       "source.gfm"
       "text.git-commit"
     ]
-  editor:
-    softWrap: true
-    invisibles: {}
+  welcome:
+    showOnStartup: false
+  "release-notes":
+    viewedVersion: "0.95.0"
+  "git-log": {}
+  "travis-ci-status": {}

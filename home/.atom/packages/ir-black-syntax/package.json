@@ -1,0 +1,26 @@
+{
+  "name": "ir-black-syntax",
+  "theme": "syntax",
+  "version": "0.2.0",
+  "description": "Based on Todd Werth’s original for TextMate.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamjspooner/ir-black-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# ir-black-syntax theme\n\nA color scheme for Atom based on [Todd Werth’s original for TextMate](http://toddwerth.com/2007/03/29/ir_black-the-last-textmate-theme-youll-ever-need/).\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/adamjspooner/ir-black-syntax/issues"
+  },
+  "homepage": "https://github.com/adamjspooner/ir-black-syntax",
+  "_id": "ir-black-syntax@0.2.0",
+  "dist": {
+    "shasum": "061c0d8fa743c93a7411c9aec0c2f4fd5bf107de"
+  },
+  "_resolved": "/private/var/folders/nb/8tdmchc10hvfggtnvlwfw9xc0000gn/T/d-114913-56483-xhr5lr/package.tgz",
+  "_from": "/private/var/folders/nb/8tdmchc10hvfggtnvlwfw9xc0000gn/T/d-114913-56483-xhr5lr/package.tgz"
+}
